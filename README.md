@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Stats & languages
+<div style= "display: inline_block">
+<img height="180em" alt="Giovanni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=giobauermeister&show_icons=true&theme=highcontrast&count_private=false">
+<img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giobauermeister&layout=compact&langs_count=10&theme=highcontrast">
+</div>
+
 <!--
 **giobauermeister/giobauermeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
