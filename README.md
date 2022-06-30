@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+All contributions (code, features, ideas, bug reports, etc.) are welcome.
+
+Please use the github issue tracker and pull request features.
+
+Also, if you find useful any of my projects or software, please feel free to
+consider making a donation of your choice at the link below:
+
+[![Donate](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png)](https://www.paypal.me/giobauermeister)
