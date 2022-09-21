@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm an Embedded Software Developer from Brazil, living in Floripa, an island on the south coast :ocean: :palm_tree: :mountain:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannibauermeister/)
 
 ### Stats & languages
 <div style= "display: inline_block">
